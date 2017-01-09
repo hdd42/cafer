@@ -1,5 +1,20 @@
 // Javascript Degiskenler ve Kosullar
 // Her programlama dilinde, degiskenler ve kosullar vardir. 
+// baslamdan onc ebir on bilgi oalrak, programlama dillerindeki , yorum satirlarindan bahsedelim
+//suan okudugun satirlar bir yorum satiri. bunlar calisan kodlar degil, 
+//kodlama yapan kisinin kendisi yada baskasi icin biraktigi yorumlardir. 
+// yorum yazmak icin '//' iki tane slash kullaniriz. '//' ile tek satir yorum yazabiliriz
+//birdan fazla satirda yorum yazmak icinde asagidki slash yildiz soz dizimini kullaniriz 
+
+/**
+ * cok satirli yorum.
+ * istedigim kadar satir da yorum yazabilirim ve 
+ * bu yorumlar kod gibi calismaz kendim icin veya baskalari icin faydali bilgiler
+ * icerir, iyi bir kod yazici her zaman bolca yorum yazar 
+ * boylece kodlarin ne ise yaradigini herkes kolayca anlaybilir. 
+ * kodlari kendiside uzun usre sonra okusa bile yorumlar sayesinde kolayca hatirlar. 
+ */
+
 
 /* 
 -------- Javascript Degiskenler ---------
